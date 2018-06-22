@@ -1,0 +1,57 @@
+<h2 class="blue-color pb-4 font-weight-bold">????</h2>
+    <div class="row">
+    <div class="col-md-6 float-left">
+    
+    <p class="font-weight-bold blue-color pb-5">???<br />
+    ?????<br />
+    ??<br />
+    ????<br />
+    ????
+    </p>
+    <br />
+    <p class="font-weight-bold blue-color">????(??????)<br />
+    ?????<br />
+    ??
+    </p>
+    </div>
+    
+    <div class="col-md-6 float-right">
+    <p class="pb-4">
+    Deerwalk Japan????<br />
+    ???·???·????<br />
+    2017?1?9?<br />
+    ????????7-15-5(6F)<br />
+    Deerwalk Group<br />
+	Deerwalk Ltd Pvt. <br />
+	Deerwalk Services inc.
+
+    </p>
+    
+    <p>
+    xxx?<br />
+    ??????<br />
+    03-6821-6778
+    </p>
+    </div>
+    
+    </div>
+    
+    <h2 class="blue-color pt-5 pb-4">??????</h2>
+    <div class="row">
+    <div class="col-md-6 float-left">
+    
+    <p class="font-weight-bold blue-color pb-5">????<br />
+    E???????<br />
+    ??????
+    </p>
+    </div>
+    
+    <div class="col-md-6 float-right">
+    <p class="pb-4">
+    03-6821-6778<br />
+    xxx<br />
+    http://deerwalkjapan.com
+    </p>
+    </div>
+    
+    </div>

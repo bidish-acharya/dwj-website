@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {color: #333333; font-family: 'Meiryo','Montserrat', 'Mplus 1p', 'Hiragino Sans', 'Hiragino Kaku Gothic Pro', '游ゴシック' , '游ゴシック体' , YuGothic , 'Yu Gothic', 'ＭＳ ゴシック' , 'MS Gothic', sans-serif; font-size: 18px; overflow-x: hidden;}
+.banner {background-image: url(../images/deerwalk-japan.jpg); height: 100vh; background-size: cover; background-position: top;}
+.nav-bar {background-color: #ffffff;}
+.banner-text {left: 0; right: 0; top: 50%;}
+.head h1{
+    color: #0f5288;
+    font-size: 3.75rem;
+	font-weight: bold;
+}
+
+.nav-item a {
+	background-color: #0f5288;
+    color: #fff !important;
+	border: medium #fff solid;
+	font-weight: bold;
+	border-radius: 2px;
+}
+
+.nav-item a:hover {
+	background-color: rgba(15,82,136,0.9);
+}
+
+.white-backdrop {background-color: #ffffff; opacity: 0.9; padding: 10px 0;}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+.greenBtn { border: none;
+    background: #0f5288;
+    color: #fff !important;
+	margin-top: 10px;
+	padding: 10px;}
+	
+.greenBtn:hover {opacity: 0.8;}
+
+.navbar-brand {
+	margin-left: 15px !important;
+}
+
+p {font-size: 18px;}
+
+.blue-color {color: #0f5288; font-weight: bold;}
+.textIndex {padding: 50px 5%;}
+.firstSection {background-image: url(../images/rudra-pandey.jpg); background-size: cover; background-position: top;}
+.secondSection {background-image: url(../images/deerwalk-application.jpg); background-size: cover;}
+.services {margin-bottom: 15px;}
+.our-services{background-color: #f4f4f4;}
+
+.dwTeam {height: 65vh; background-size: cover; background-position: bottom;}
+.textSingle {padding: 5%; font-size: 21px;}
+.significance {background-color: #eeeeee;}
+.significanceSection {background-image: url(../images/deerwalk-application.jpg); background-size: cover; background-position: center;}
+.deerwalkImg {height: 65vh; background-position: center;}
+.contact-form {background-color: #eeeeee; padding: 5%;}
+.footer-content {
+    padding: 1px 0;
+    background-color: #aaa;
+}
+.contactContent {padding: 5% 3% 0 5%; background-color: #fff !important;}
+.full-height { height: 65vh;}
+.margin-fixer {margin-top: 90px;}
+.m-15 {margin: 15%;}
+.intraTopFix {
+    padding-top: 90px !important;
+    margin-top: -90px;
+}
+
+.textSingle h2 {font-size: 28px;}
+.list { list-style-type: none; margin-left: 10px; margin-top: 25px;}
+.list li { margin-left: 30px; margin-top: -23px; font-size: 18px;}
+.fa-check {color: #333; margin-right: 15px;}
+.contactContent a {color: #0f5288;}
+.contactContent a:hover { text-decoration: blink;}
+
+/* 3 section para content */
+.textIndex-content {font-size: 19px;}
+
+/* carousel */
+
+.carousel-bg {background-color: #ddd !important; width: 100%;}
+.carousel-bg .fas {color: #777;
+    font-size: large;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 15px;
+    border-radius: 50%;}
+.fas {color: #777;}
+.carousel-caption {top: 80px; bottom: 0; color: #333; text-align: left; left: 5% !important;}
+.carousel-bio {margin-top: 30px; color: #333333; font-size: 19px;}
+/*.carousel-item {height: 75vh;}*/
+.main-carousel h3 {font-weight: bold;}
+
+.footer_content {background-color: #333; height: 100px;}
+.img-wrapper {max-height: 450px; overflow: hidden;}
+.img-wrapper img {width: 100%;}
+.st-line {position: relative; top: -30px; border-bottom:1px solid #bbb;}
+
+.btn-primary {
+    color: #fff;
+    background-color: #0f5288;
+    border-color: #0f5288;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: rgba(15,82,136,0.9);
+    border-color: rgba(15,82,136,0.9);
+}
+
+@media(max-width:767px)
+{
+	.head h1 {font-size: 2rem;}
+	.navbar-brand {
+			width: 50% !important;
+			margin-left: 0 !important;
+	}
+	
+	.navbar-brand img {
+		width: 100% !important;
+	}
+	
+	.secondSection, .significanceSection {
+		min-height: 350px !important;
+		background-position: center;
+	}
+	
+	.firstSection {
+		display: none !important;
+	}
+	
+	.reverseOnMobile {
+		flex-direction: column-reverse !important;
+	}
+	
+	.margin-fixer {margin-top: 60px;}
+	
+	.banner {background-position: center; background-position-x: -400px; background-position-y: 55px;}
+	.img-wrapper {max-height: 450px; overflow: hidden;}
+	.carousel-bg .fas {padding: 10px; top: 15%; position: relative;}
+	.carousel-caption {top: 15px !important; left: 17% !important; right: 15%;}
+	.carousel-item {height: 950px;}
+	.carousel-item img {margin: 0;}
+	.dwTeam {display: none !important;}
+	.deerwalkImg {height: 50vh !important;}
+	.contactContent {padding-bottom: 90px;}
+}
