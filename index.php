@@ -289,11 +289,8 @@ Deerwalk Japanは世界に通じるソフトウェア開発を手掛けていま
     <div class="container-fluid">
     <div class="row significance reverseOnMobile">
     <div class="col-md-5 textSingle">
-    <h2 class="blue-color revealOnScroll" data-animation='fadeInUp'><strong>日本とオフショア開発をする意義</strong></h2>
-    <ul class="p-3 list">
-    	<i class="fas fa-check"></i><li class="revealOnScroll" data-animation='fadeInRight'>&nbsp; 有能なソフトウェアエンジニア人材を海外（ネパール）から提供するとによって、日本企業のエンジニア不足の手助けをできる</li>
-        <br />
-       <i class="fas fa-check"></i><li class="revealOnScroll" data-animation='fadeInRight'>&nbsp; 日本企業と働くことを通して、ネパール人エンジニアは、 今後の日本市場のニーズに対応する経験とスキルをつけることができる</li>
+    <h2 class="blue-color revealOnScroll" data-animation='fadeInUp'><strong>開発メソッド</strong></h2>
+     <ul class="p-3 list"> <i class="fas fa-check"></i><li class="revealOnScroll" data-animation='fadeInRight'>&nbsp; <strong>ラボ型</strong><br/>人月単位でご契約いただき、御社の専属チームを構成します。<br/>アジャイル形式に適した開発方法です。</li> <br /> <i class="fas fa-check"></i><li class="revealOnScroll" data-animation='fadeInRight'>&nbsp; <strong>プロジェクト型</strong><br/>いわゆる受託開発です。<br/>事前に仕様書等が決まっている案件に適しています。</li>
     </ul>
     </div>
      
@@ -326,11 +323,11 @@ Deerwalk Japanは世界に通じるソフトウェア開発を手掛けていま
     </div>
     <div class="row">
     <p class="blue-color col-md-6 font-weight-bold revealOnScroll" data-animation='fadeInUp'>設立</p>
-    <p class="col-md-6 revealOnScroll" data-animation='fadeInRight'>2017年1月9日</p>
+    <p class="col-md-6 revealOnScroll" data-animation='fadeInRight'>2018年1月9日</p>
     </div>
     <div class="row">
     <p class="blue-color col-md-6 font-weight-bold revealOnScroll" data-animation='fadeInUp'>本社住所</p>
-    <p class="col-md-6 revealOnScroll" data-animation='fadeInRight'>東京都中央区銀座7-15-5<br />共同ビル (6F)</p>
+    <p class="col-md-6 revealOnScroll" data-animation='fadeInRight'>〒104‐0061 <br /> 東京都中央区銀座7-15-5<br />共同ビル (6F)</p>
     </div>
     <div class="row">
     <p class="blue-color col-md-6 font-weight-bold revealOnScroll" data-animation='fadeInUp'>関連会社</p>
@@ -391,16 +388,6 @@ Deerwalk Japanは世界に通じるソフトウェア開発を手掛けていま
     </div>
     </div>
 
-<?php /*?>    <footer>
-	<div class="row container-fluid">
-    <div class="footer-content text-center">
-    <img src="images/deerwalk-japan-logo.png" class="p-3"/>
-    <p>© 2018 Deerwalk Japan Limited. All Rights Reserved.</p>
-    </div>
-    </div><?php */?>
-	
-    
-    </footer>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <script type="text/javascript" src="js/modernizr2.8.3.js"></script> 
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
